@@ -32,7 +32,7 @@ Siga as etapas abaixo para rodar o projeto localmente:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Esthefany-Dev/Ecowise-Consulting.git
+   git clone https://github.com/Esthefany-Dev/EcoWise-Consulting.git
 2. Acesse o diretório do projeto:
    ```bash
    cd Ecowise-Consulting
