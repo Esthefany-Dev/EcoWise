@@ -21,7 +21,7 @@ export default function Home() {
           <h1 className={`text-white font-bold text-3xl w-full xl:w-1/2 lg:text-5xl md:text-4xl sm:text-4xl sm:w-5/7`} ref={homeRef}>
             TRANSFORME SUA EMPRESA COM SOLUÇÕES SUSTENTÁVEIS.
           </h1>
-          <button onClick={handleShow} className={`bg-white w-6/7 mt-10 p-3 rounded-full opacity-60 font-bold text-lg text-lime-900 hover:opacity-95 xl:w-1/2 sm:w-2/3 sm:mt-14 sm:text-xl`}>
+          <button onClick={handleShow} className={`bg-white w-6/7 mt-10 p-3 rounded-full opacity-70 font-bold text-lg text-lime-900 hover:opacity-95 xl:w-1/2 sm:w-2/3 sm:mt-14 sm:text-xl`}>
             SOLICITE UMA CONSULTORIA
           </button>
         </div>

@@ -50,7 +50,7 @@ export default function Services() {
     <div id="services" className="m-8 sm:m-14">
       <h1 className={`text-lime-900 font-bold text-3xl m-6 text-center md:text-4xl sm:text-4xl sm:m-10 transition-opacity duration-500`}> NOSSOS SERVIÇOS</h1>
       <div className="flex justify-center">
-        <div ref={ref} className={`w-full flex flex-col flex-wrap rounded-2xl p-8 shadow-2xl relative z-1 bg-white lg:flex-row sm:w-5/6 sm:p-14 transition-opacity duration-500 ${ inView ? 'animate-fade-down animate-duration-1000' : 'animate-none'}`}>
+        <div ref={ref} className={`w-full flex flex-col flex-wrap rounded-2xl p-8 shadow-2xl relative z-10 bg-white lg:flex-row sm:w-5/6 sm:p-14 transition-opacity duration-500 ${ inView ? 'animate-fade-down animate-duration-1000' : 'animate-none'}`}>
           {services.map((service, index) => (
             <ServiceCard
               key={index}

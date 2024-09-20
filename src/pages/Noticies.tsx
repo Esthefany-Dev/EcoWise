@@ -12,7 +12,7 @@ interface NoticesCardProps {
 const NoticesCard: React.FC<NoticesCardProps> = ({ title, description, onClick }) => (
   <div className="bg-white rounded-xl p-5 m-4 w-full sm:m-5 min-h-[350px] flex flex-col shadow-lg lg:w-1/2 md:w-2/3 sm:w-3/4 xl:w-1/3">
     <p className="font-semibold text-[#5f6952] sm:text-xl text-justify uppercase">{title}</p>
-    <p className="font-medium text-[#5f6952] sm:text-xl text-justify uppercase py-2">{description}</p>
+    <p className="font-medium text-[#5f6952] sm:text-xl text-justify py-5">{description}</p>
     <button className="bg-[#5f6952] hover:bg-[#909E7D] w-full p-2 rounded-lg text-white font-semibold sm:text-lg tracking-wider mt-auto" onClick={onClick}>
       SAIBA MAIS
     </button>
@@ -56,7 +56,7 @@ export default function Notices() {
       <div className="sm:w-4/5 my-14 sm:rounded-xl bg-[#909E7D] items-center justify-center">
         <h1 className="text-white font-bold text-4xl text-center mt-14 lg:text-5xl">NOTÍCIAS</h1>
         <div className="flex flex-col justify-center items-center py-8">
-          <p className="font-medium text-md uppercase text-justify px-5 w-full sm:w-4/5 sm:text-xl">
+          <p className="font-medium text-md uppercase text-justify px-5 w-full sm:font-semibold sm:w-4/5 sm:text-xl text-[#4a5140]">
             Mantenha-se atualizado com as últimas tendências, dicas e notícias sobre sustentabilidade e práticas ambientais.
             Explore nossos artigos para obter insights valiosos e aprender como sua empresa pode fazer a diferença.
           </p>
