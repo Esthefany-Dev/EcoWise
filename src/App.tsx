@@ -1,4 +1,6 @@
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import Home from "./pages/Home";
 import Services from './pages/Services';
 import Comments from './pages/Comments';
