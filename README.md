@@ -32,10 +32,10 @@ Siga as etapas abaixo para rodar o projeto localmente:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Esthefany-Dev/EcoWise-Consulting.git
+   git clone https://github.com/Esthefany-Dev/Ecowise.git
 2. Acesse o diretório do projeto:
    ```bash
-   cd Ecowise-Consulting
+   cd ecowise-site
 3. Instale as dependências:
    ```bash
    npm install
