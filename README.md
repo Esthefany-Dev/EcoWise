@@ -19,6 +19,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - **Tailwind CSS**
 - **react-intersection-observer** (API)
 - **react-scroll** (Library)
+- **Bootstrap**
 
 ## 🔧 Pré-requisitos
 
