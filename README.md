@@ -1,46 +1,60 @@
-# Getting Started with Create React App
+<h1 align="center">EcoWise Consultoria</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">A EcoWise Consultoria é uma empresa fictícia dedicada a avaliar os impactos ambientais causados por empresas e propor soluções para minimizá-los.</p>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌍 Sobre o Projeto
 
-### `npm start`
+O site da **EcoWise Consultoria** é uma **landing page moderna e responsiva** desenvolvida para atrair novos clientes, destacando os serviços e valores da empresa. Com uma interface dinâmica, o site utiliza animações para tornar a experiência do usuário mais envolvente e interativa.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+A paleta de cores combina branco, tons de verde oliva e verde escuro, refletindo o compromisso da EcoWise com a sustentabilidade. Além disso, há integração com **LinkedIn**, **GitHub** e **E-mail** da programadora responsável, facilitando o contato e divulgação do trabalho.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🛠️ Tecnologias Utilizadas
 
-### `npm test`
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+- **react-intersection-observer** (API)
+- **react-scroll** (Library)
 
-### `npm run build`
+## 🔧 Pré-requisitos
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Node.js** e **npm** instalados.
+- Verifique se todas as dependências estão instaladas corretamente antes de iniciar o projeto.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ⚙️ Como Executar o Projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Siga as etapas abaixo para rodar o projeto localmente:
 
-### `npm run eject`
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/Esthefany-Dev/Ecowise-Consulting.git
+2. Acesse o diretório do projeto:
+   ```bash
+   cd Ecowise-Consulting
+3. Instale as dependências:
+   ```bash
+   npm install
+4. Inicie o servidor local:
+   ```bash
+   npm run start
+5. Abra o navegador e acesse:
+   ```bash
+   http://localhost:3000
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 📝 Observações:
+Certifique-se de ter as dependências necessárias instaladas em sua máquina antes de executar o projeto.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🤝 Contribuições:
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 📜 Licença:
+Este projeto está licenciado sob a MIT License - consulte o arquivo LICENSE.md para obter detalhes.
+</p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+----
+👩‍💻 by [Esthefany-Dev](https://github.com/Esthefany-Dev)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
