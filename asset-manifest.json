@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/EcoWise-Consulting/static/css/main.6b036b05.css",
-    "main.js": "/EcoWise-Consulting/static/js/main.f9c0d0f0.js",
-    "static/js/453.c8cb3a24.chunk.js": "/EcoWise-Consulting/static/js/453.c8cb3a24.chunk.js",
-    "static/media/home-ecowise.png": "/EcoWise-Consulting/static/media/home-ecowise.888761d25f6b42408d41.png",
-    "static/media/linkedin.png": "/EcoWise-Consulting/static/media/linkedin.df458ff54db77d836327.png",
-    "static/media/github.png": "/EcoWise-Consulting/static/media/github.553c66159c5672f25df6.png",
-    "static/media/e-mail.png": "/EcoWise-Consulting/static/media/e-mail.4c64fedd7b804fbd56e6.png",
-    "index.html": "/EcoWise-Consulting/index.html",
-    "main.6b036b05.css.map": "/EcoWise-Consulting/static/css/main.6b036b05.css.map",
-    "main.f9c0d0f0.js.map": "/EcoWise-Consulting/static/js/main.f9c0d0f0.js.map",
-    "453.c8cb3a24.chunk.js.map": "/EcoWise-Consulting/static/js/453.c8cb3a24.chunk.js.map"
+    "main.css": "/EcoWise/static/css/main.6b036b05.css",
+    "main.js": "/EcoWise/static/js/main.40eda1b1.js",
+    "static/js/453.c8cb3a24.chunk.js": "/EcoWise/static/js/453.c8cb3a24.chunk.js",
+    "static/media/home-ecowise.png": "/EcoWise/static/media/home-ecowise.888761d25f6b42408d41.png",
+    "static/media/linkedin.png": "/EcoWise/static/media/linkedin.df458ff54db77d836327.png",
+    "static/media/github.png": "/EcoWise/static/media/github.553c66159c5672f25df6.png",
+    "static/media/e-mail.png": "/EcoWise/static/media/e-mail.4c64fedd7b804fbd56e6.png",
+    "index.html": "/EcoWise/index.html",
+    "main.6b036b05.css.map": "/EcoWise/static/css/main.6b036b05.css.map",
+    "main.40eda1b1.js.map": "/EcoWise/static/js/main.40eda1b1.js.map",
+    "453.c8cb3a24.chunk.js.map": "/EcoWise/static/js/453.c8cb3a24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b036b05.css",
-    "static/js/main.f9c0d0f0.js"
+    "static/js/main.40eda1b1.js"
   ]
 }
